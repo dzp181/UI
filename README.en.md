@@ -140,29 +140,3 @@
 *   EZSwipeController：![](/images/pointer.png.png)类似 Snapchat/Tinder/iOS 主页的 UIPageViewController。★[官网](https://github.com/goktugyil/EZSwipeController)
 *   SWRevealViewController：受到 FaceBook 和 Wunderlist 应用启发的 UIViewController 子类，用于显示侧滑的视图控制器。[官网](https://github.com/John-Lluch/SWRevealViewController)
 
-----------------------------------------------------------------------------
-### <a name="section1_record_tool"></a>
-
-#### 1.15 工具
-
-*   Underscore.m：用来操作数据的 DSL。[官网](https://github.com/robb/Underscore.m)
-*   SBConstants：生成一个包含了 storyboard 中所有 identifier 的常量文件。[官网](https://github.com/paulsamuels/SBConstants)
-*   XExtensionItem：方便地在 iOS 应用和分享扩展至简分享数据。[官网](https://github.com/tumblr/XExtensionItem)
-*   ReflectableEnum：Objective-C 枚举的反射。[官网](https://github.com/fastred/ReflectableEnum)
-*   VWWPermissionKit：可视化的 iOS 权限管理器。[官网](https://github.com/zakkhoyt/VWWPermissionKit)
-*   ClusterPrePermissions：可重用的预授权工具，它可以让开发者在对话中获取系统权限之前询问用户。[官网](https://github.com/clusterinc/ClusterPrePermissions)
-*   DateTools：简便的 Objective-C 日期和时间工具。[官网](https://github.com/MatthewYork/DateTools)
-*   EKAlgorithms：一些知名的计算机科学算法和数据结构的 Objective-C 实现。[官网](https://github.com/EvgenyKarkan/EKAlgorithms)
-*   Tactile：安全并且更加合乎习惯的响应收拾和控件事件的方式。★[官网](https://github.com/delba/Tactile)
-*   Colours：这是一套与定义的颜色和颜色方法，让你的 iOS／OS X 开发更加方便。[官网](https://github.com/bennyguitar/Colours)
-*   ObjectiveSugar：Ruby 风格的 ObjectiveC 附件。[官网](https://github.com/supermarin/ObjectiveSugar)
-*   GroundControl：iOS 远程配置。[官网](https://github.com/mattt/GroundControl)
-*   OpinionatedC：让 Objective-C 继承更多 Smalltalk 特性。[官网](https://github.com/leoschweizer/OpinionatedC)
-*   GCDKit：GCD 的 Swift 简化版。★[官网](https://github.com/JohnEstropia/GCDKit)
-*   SwiftRandom：随即数据生成器。★[官网](https://github.com/thellimist/SwiftRandom)
-*   RandomKit：Swift 随机数据生成器。★[官网](https://github.com/nvzqz/RandomKit/)
-*   Async：Swift 的 GCD 异步派发语法糖。★[官网](https://github.com/duemunk/Async)
-*   YOLOKit：让方块透过圆洞。[官网](https://github.com/mxcl/YOLOKit)
-*   EZSwiftExtensions：:smirk:标准类型和类是如何工作的。★[官网](https://github.com/goktugyil/EZSwiftExtensions)
-*   ChineseIDCardOCR: 利用前馈神经网络对身份证信息做OCR识别。 ★ [官网](https://github.com/KevinGong2013/ChineseIDCardOCR)
-

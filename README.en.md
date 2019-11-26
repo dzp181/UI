@@ -1,6 +1,6 @@
 # UI
 
-[中文](https://github.com/dzp181/UI/blob/master/README.en.md)
+[中文](https://github.com/dzp181/UI/blob/master/README.md)
 
 *   Chameleon：一个 iOS 性能强大的轻量级扁平化颜色框架，可以用于 Objective-C 和 Swift。★[官网](https://github.com/ViccAlexander/Chameleon)
 *   ActionSheetPicker-3.0：为 iOS App 快速制作一个下拉 UIPickerView / ActionSheet 功能。[官网](https://github.com/skywinder/ActionSheetPicker-3.0/)

@@ -1,7 +1,6 @@
 # UI
 
-[en](https://github.com/dzp181/UI/blob/master/README.md)
-
+[中文](https://github.com/dzp181/UI/blob/master/README.md)
 
 *   Chameleon：一个 iOS 性能强大的轻量级扁平化颜色框架，可以用于 Objective-C 和 Swift。★[官网](https://github.com/ViccAlexander/Chameleon)
 *   ActionSheetPicker-3.0：为 iOS App 快速制作一个下拉 UIPickerView / ActionSheet 功能。[官网](https://github.com/skywinder/ActionSheetPicker-3.0/)
@@ -166,3 +165,4 @@
 *   YOLOKit：让方块透过圆洞。[官网](https://github.com/mxcl/YOLOKit)
 *   EZSwiftExtensions：:smirk:标准类型和类是如何工作的。★[官网](https://github.com/goktugyil/EZSwiftExtensions)
 *   ChineseIDCardOCR: 利用前馈神经网络对身份证信息做OCR识别。 ★ [官网](https://github.com/KevinGong2013/ChineseIDCardOCR)
+
